@@ -1,0 +1,15 @@
+{
+  "name": "mediafarm",
+  "version": "1.0.0",
+  "description": "Media Library",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Erwin Fraterman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
